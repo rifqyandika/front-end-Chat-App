@@ -1,0 +1,8 @@
+    @font-face {
+        font-family: 'Fontku';
+        src: url(../font/Rubik-VariableFont_wght.ttf);
+    }
+
+    * {
+        font-family: 'Fontku';
+    }
